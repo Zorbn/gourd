@@ -964,7 +964,7 @@
 	  "editor.findMatchBackground": "#ebdbb270",
 	  "editor.findMatchHighlightBackground": "#8ec07c30",
 	  "editor.findRangeHighlightBackground": "#ebdbb270",
-	  "editor.lineHighlightBackground": "#3c383660",
+	  "editor.lineHighlightBackground": "#ebdbb2",
 	  "editor.lineHighlightBorder": "#3c383600",
 	  "editorWhitespace.foreground": "#a8998420",
 	  "editorIndentGuide.background": "#a8998420",
