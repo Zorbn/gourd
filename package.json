@@ -2,6 +2,8 @@
     "name": "gourd",
     "displayName": "gourd",
     "description": "A theme based on gruvbox and inspired by nord.",
+    "icon": "images/logo.png",
+    "publisher": "Zorbn",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.67.0"
